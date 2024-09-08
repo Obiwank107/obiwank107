@@ -21,6 +21,13 @@ As active participants in the blockchain ecosystem, we strive to:
 ## Connect With Me:
 Whether you're looking for reliable validation services or are interested in collaborating on open-source blockchain projects, we’d love to connect! Join me on GitHub and follow my journey towards a decentralized future.
 
+<div align="center">
+  <a href="https://obiwank107.xyz"><img src="https://github.com/user-attachments/assets/98654f4f-67d0-4e3d-9590-0d76f890d06a" alt="Website" width="60" /></a>
+  <a href="https://github.com/Obiwank107"><img src="https://github.com/user-attachments/assets/f3e59abe-01b8-4838-a71a-c90ff0f376f0" alt="GitHub" width="60" /></a>
+  <a href="https://x.com/Obiwank107"><img src="https://github.com/user-attachments/assets/a501b3a3-1ae5-4468-9bd0-600a89feaf50" alt="Twitter" width="60" /></a>
+  <a href="https://t.me/obiwank107"><img src="https://github.com/user-attachments/assets/221c642e-ca19-4d10-b7ca-571bfa6ff2b7" alt="Telegram" width="60" /></a>
+</div>
+
 ---------------------------------------------
 
 <p align="center">
