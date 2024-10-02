@@ -1,4 +1,5 @@
-![Github Banner](https://github.com/user-attachments/assets/add6d872-29bb-4458-ac55-bf70231ac451)
+![Github Banner](https://github.com/user-attachments/assets/d4a80c28-ad77-4b1d-8723-3540b9e5cef3)
+
 
 ## Introduction:
 Welcome to Obiwank107, Private Node runner, your trusted partner in Proof-of-Stake (PoS) validation and decentralized technologies. With over 3 years of experience in PoS blockchains like Cosmos and Polkadot, and 4+ years in Cryptocurrency, DeFi, and NFTs, we are committed to delivering secure, reliable, and innovative blockchain services. Our mission is to contribute to the advancement and adoption of decentralized technologies.
